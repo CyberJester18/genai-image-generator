@@ -1,5 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/CyberJester18/genai-image-generator/blob/main/stable_diffusion_image_generator.ipynb)
+
 
 
 
